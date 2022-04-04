@@ -157,34 +157,69 @@ nav {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-column-gap: 16px;
-  grid-row-gap:30px;
+  grid-row-gap: 30px;
   margin-top: 15px;
 }
 
-.vid-list .thumbnail{
+.vid-list .thumbnail {
   width: 100%;
   border-radius: 5px;
 }
 
-.vid-list .flex-div{
+.vid-list .flex-div {
   align-items: flex-start;
   margin-top: 7px;
 }
 
-.vid-list .flex-div img{
+.vid-list .flex-div img {
   width: 35px;
   margin-right: 10px;
   border-radius: 50%;
 }
 
-.vid-info{
-  color:#5a5a5a;
+.vid-info {
+  color: #5a5a5a;
   font-size: 13px;
 }
 
-.vid-info a{
+.vid-info a {
   color: #000;
   font-weight: 600;
   display: block;
   margin-bottom: 5px;
+}
+
+@media (max-width: 900px) {
+  .menu-icon {
+    display: none;
+  }
+  .sidebar {
+    display: none;
+  }
+
+  .container,
+  .large-container {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .nav-right img {
+    display: none;
+  }
+
+  .nav-right .user-icon {
+    display: block;
+    width: 30px;
+  }
+
+  .nav-middle .search-box input {
+    width: 100px;
+  }
+  .nav-middle .mic-icon {
+    display: none;
+  }
+
+  .logo {
+    width: 80px;
+  }
 }
