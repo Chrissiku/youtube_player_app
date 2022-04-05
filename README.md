@@ -3,6 +3,6 @@
 # [live demo](https://chrissiku.github.io/youtube_clone/)
 
 ## Configuration and userful links
-   ### 1. images and video form pixabay.com
-   ### 2. font famly form goolgle font 
-   ### 3. used font : Poppins and sans-serif
+   ### 1. images and video form [pixabay.com](https://pixabay.com/fr)
+   ### 2. font famly form [goolgle font](https://fonts.google.com/) 
+   ### 3. used font : [Poppins](https://fonts.google.com/specimen/Poppins?query=poppin) and sans-serif
