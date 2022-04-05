@@ -1,6 +1,6 @@
 # This project concern youtube_player interface but it sound too good when we implement  it form the first page of youtube application
 
-# [live demo](https://chrissiku.github.io/youtube_clone/)
+# [live demo](https://chrissiku.github.io/youtube_player_app/)
 
 ## Configuration and userful links
    ### 1. images and video form [pixabay.com](https://pixabay.com/fr)
